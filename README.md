@@ -5,5 +5,5 @@ I will update it as I develop new projects.
 
 
 - Computer Science project [here](https://github.com/DavideMiori/CSproject)
-- Machine Learning project (Report in italian) [here](https://github.com/DavideMiori/CSproject)
+- Machine Learning project (Report in italian) [here](https://github.com/DavideMiori/UniversityProjects/tree/main/MLproject)
 - Data Management and Visualization (Report in italian)
