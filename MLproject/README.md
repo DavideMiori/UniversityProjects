@@ -5,5 +5,5 @@ For the first one the output variable is represented by the fetal state Normal a
 For the 3-class classification the output variable is represented by the three fetal state Normal, Suspect and Pathlogic.  
 The final classification problem tries to predict the FHR pattern which consists of ten specific patterns detected on the fetus.
 
-The Cardiotocography dataset, available [here](https://archive.ics.uci.edu/ml/datasets/cardiotocography#) 
+The Cardiotocography dataset is available [here](https://archive.ics.uci.edu/ml/datasets/cardiotocography#) 
 
